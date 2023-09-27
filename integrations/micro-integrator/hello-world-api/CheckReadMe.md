@@ -4,3 +4,4 @@
 - Test AutoDeployment 004
 - Test AutoDeployment 005
 - Test AutoDeployment 006
+- Test AutoDeployment 007
